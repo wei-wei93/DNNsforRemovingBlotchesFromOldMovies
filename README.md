@@ -1,9 +1,2 @@
-DNNsforremovingDirtandSparklefromMovies
- WeiWei
- Supervisor: Prof. Anil Kokaram
- Department of Electronic and Electrical Engineering
- Trinity College Dublin
- This dissertaton is submitted in partial fulfillment for the degree of
- MScinElectronic Information Engineering
- Trinity College Dublin
- July 2022
+![image](https://github.com/user-attachments/assets/e38784f3-c2e3-463b-92b8-7e1d63a226f6)
+
